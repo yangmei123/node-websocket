@@ -12,11 +12,11 @@
 
 > npm 进入项目，运行$ node nodejs-socket.js 启动成功会看到服务开启
 
-![Image text](https://github.com/yangmei123/vue-slider/blob/master/node.png)
+![Image text](https://github.com/yangmei123/node-websocket/blob/master/node.png)
 
 > 双击client-webSocket.html 在浏览器点击webSocket按钮就可以看到发送和接收到消息了~
 
-![Image text](https://github.com/yangmei123/vue-slider/blob/master/demo.gif)
+![Image text](https://github.com/yangmei123/node-websocket/blob/master/demo.gif)
 
 > 将clinet文件夹里的client-websocket
 
