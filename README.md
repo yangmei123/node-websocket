@@ -18,7 +18,6 @@
 
 ![Image text](https://github.com/yangmei123/node-websocket/blob/master/demo.gif)
 
-> 将clinet文件夹里的client-websocket
 
 ### 解码的过程
 
